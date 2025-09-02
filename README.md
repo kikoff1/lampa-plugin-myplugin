@@ -1,1 +1,6 @@
-# lampa-plugin-myplugin
+git init
+git add .
+git commit -m "Initial commit of Lampa TV plugin"
+git branch -M main
+git remote add origin https://github.com/kikoff1/lampa-plugin-myplugin.
+git push -u origin main# lampa-plugin-myplugin
